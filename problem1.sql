@@ -1,0 +1,1 @@
+INSERT INTO song (title, artist) VALUES ('Soul to Squeeze', 'Red Hot Chili Peppers');
